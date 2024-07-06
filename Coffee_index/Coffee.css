@@ -1,0 +1,568 @@
+/* <INDEX CSS><INDEX CSS><INDEX CSS><INDEX CSS><INDEX CSS><INDEX CSS><INDEX CSS><INDEX CSS><INDEX CSS><INDEX CSS><INDEX CSS><INDEX CSS> */
+
+
+/* <!-- <Nav bar part> --> */
+/* <!-- <Header part> --> */
+.header{
+    background-image:
+    linear-gradient(90deg, rgba(96, 64, 32,1), rgba(95, 67, 39, 0), rgba(104, 67, 35, 0)),
+    url("Images/Header.avif");
+     background-size: 100%; 
+    height: 650px;
+    width: auto;
+    /* background-size: cover; */
+}
+.navbar {
+    background-color: transparent;
+    overflow: hidden;
+    
+} 
+
+.nav-link {
+    margin: 20px;
+    text-align: center;
+    font-size:25px;
+}
+
+a:visited {
+color: white;
+}
+
+.navbar-brand:hover{
+    background-color: #f9f2eb;
+    color: #4e3418;
+    border-radius: 30px;
+}
+.nav-link:hover{
+    background-color: #ebd1b7;
+    color: #4e3418;
+    border-radius: 30px;
+}
+
+/* <!-- <High quality coffee shop online> --> */
+
+.coffee_shop{
+    height: auto;
+    width: auto;
+    background-color:#f9f2eb;
+    color: #4e3418;
+    padding-left: 80px;
+    padding-top: 70px;
+    padding-right: 80px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+.img_icon{
+    height: 40px;
+    width: 40px;
+}
+.coffee_icon{
+    padding: 30px;
+}
+
+/* <!-- <More part> --> */
+
+.coffee_more{
+    height: auto;
+    width: auto;
+    padding: 100px;
+    color: #4e3418;
+}
+.btn-warning{
+    border-color: #4e3418;
+}
+.btn-outline-warning{
+    width: 300px;
+    height: 50px;
+    background-color:#ebd1b7 ;
+    color: #4e3418;
+    border-radius: 30px;
+    border-color: #4e3418;
+    margin-top: 30px;
+}
+.btn:hover{
+    background-color: #4e3418;
+    color:#ebd1b7;
+    border-color: #ebd1b7;
+}
+.coffee_more_text{
+    padding-top: 20px;
+    padding-left: 150px;
+}
+.coffee_more_img{
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+}
+.header_text{
+    margin-top: 100px;
+    margin-left: 100px;
+    color: antiquewhite;
+}
+
+/* <!-- <Coffee Quote part> --> */
+
+.quote{
+    height: auto;
+    width: auto;
+    text-align: center;
+    font-size: larger;
+    color:#f9f2eb;
+    padding: 100px;
+    padding-left: 170px;
+    padding-right: 170px;
+    background-image:linear-gradient(90deg, rgba(96, 64, 32,1), rgba(95, 67, 39, 0.6), rgba(104, 67, 35, 0.4)), url("Images/Bg_scroll.avif");
+  background-attachment: fixed;
+  background-size: 100%;
+}
+
+/* <!-- <Coffee Product Part> --> */
+
+.product{
+    height: auto;
+    width: auto;
+    background-color:#f9f2eb;
+    color: #4e3418;
+    padding: 75px;
+}
+.product_img{
+    width: 300px;
+    height: 200px;
+    border-radius: 30px;
+}
+.Expresso{
+    height: auto;
+    width: 300px;
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+.Americano{
+    height: auto;
+    width: 300px;
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+.Latte{
+    height: auto;
+    width: 300px;
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+.btn_offer{
+    border-color: #4e3418;
+}
+/* <!-- <More part 2> --> */
+
+.coffee_more2{
+    height: auto;
+    width: auto;
+    padding: 100px;
+    color: #4e3418;
+}
+.btn{
+    width: 100px;
+    height: 50px;
+    background-color:#f9f2eb ;
+    color: #4e3418;
+    border-radius: 30px;
+}
+.btn:hover{
+    background-color: #4e3418;
+    color:#f9f2eb;
+}
+.coffee_more_text2{
+    padding-top: 20px;
+    padding-right: 130px;
+    padding-left: 50px;
+}
+.coffee_more_img2{
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+    float: right;
+}
+
+/* <ABOUT US CSS><ABOUT US CSS><ABOUT US CSS><ABOUT US CSS><ABOUT US CSS><ABOUT US CSS><ABOUT US CSS><ABOUT US CSS><ABOUT US CSS> */
+
+
+/* <!-- <Nav bar part> --> */
+/* <!-- <Header part> --> */
+.Aboutus_header{
+    background-image:
+    linear-gradient(90deg, rgba(96, 64, 32,1), rgba(95, 67, 39, 0), rgba(104, 67, 35, 0)),
+    url("Images/AboutUS_header.avif");
+    height: 650px;
+    background-size: 100%;
+}
+.navbar {
+    background-color: transparent;
+    overflow: hidden;
+    
+} 
+
+.nav-link {
+    margin: 20px;
+    text-align: center;
+    font-size:25px;
+}
+
+a:visited {
+color: white;
+}
+
+a:hover {
+    background-color: rgb(68, 29, 29);
+}
+.navbar-brand:hover{
+    background-color: #f9f2eb;
+    color: #4e3418;
+    border-radius: 30px;
+}
+.nav-link:hover{
+    background-color: #f9f2eb;
+    color: #4e3418;
+    border-radius: 30px;
+}
+.btn-warning{
+    border-color: #4e3418;
+}
+.btn:hover{
+    background-color: #4e3418;
+    color:#ebd1b7;
+    border-color: #ebd1b7;
+}
+
+/* <!-- <Mission, Vission part> --> */
+
+.mission_vision{
+    text-align: center;
+    color: #4e3418;
+    padding: 40px;
+
+}
+.img_mv{
+    height: 80px;
+    width: 80px;
+}
+.m_v{
+    padding: 50px;
+}
+
+/* <!-- <Highest Quality from seed to cup> --> */
+
+.coffee_powder{
+    height: auto;
+    width: auto;
+    padding: 100px;
+    color: #4e3418;
+    background-color: #f9f2eb;
+}
+.img_powder{
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+    float: right;
+}
+.text_powder{
+    padding-top: 40px;
+    padding-right: 130px;
+    padding-left: 50px;
+    font-size: medium;
+}
+
+/* <!-- <Our team of specialist> --> */
+
+.Full_team{
+   /* padding:top/bottom left/right; */
+    padding: 80px 80px;
+}
+.team{
+text-align: center;
+color: #4e3418;
+}
+.img_team{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.fa-brands{
+    cursor: pointer;
+}
+
+/* <!-- <Slideshow of peooples review> --> */
+
+.d-block{
+    width: auto;
+    height: 600px;
+    
+}
+.carousel-caption{
+    padding-bottom: 150px;
+    text-align: center;
+    font-size: larger;
+}
+
+.sub_slide{
+    height: 300px;
+    width:300px;
+    border-radius: 200px;
+    float: left;
+}
+
+/* <!-- <About Us More part> --> */
+
+.aboutus_more{
+    height: auto;
+    width: auto;
+    padding: 80px;
+    color: #4e3418;
+}
+.btn{
+    width: 100px;
+    height: 50px;
+    background-color:#f9f2eb ;
+    color: #4e3418 ;
+    border-color:#4e3418 ;
+    border-radius: 30px;
+}
+.btn:hover{
+    background-color:#f9f2eb ;
+    color:#4e3418;
+}
+.aboutus_more_text{
+    padding-top: 80px;
+    padding-left: 150px;
+}
+.aboutus_more_img{
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+/* <CONTACT CSS><CONTACT CSS><CONTACT CSS><CONTACT CSS><CONTACT CSS><CONTACT CSS><CONTACT CSS><CONTACT CSS><CONTACT CSS><CONTACT CSS> */
+.Contact_header{
+    background-image:
+    linear-gradient(90deg, rgba(96, 64, 32,1), rgba(95, 67, 39, 0), rgba(104, 67, 35, 0)),
+    url("Images/Contact_Header.avif");
+    height: 650px;
+    background-size: 100%;
+}
+
+.contact_form{
+    background-color:#f9f2eb ;
+}
+.form{
+    padding-left: 200px;
+    font-size: larger;
+    color: #4e3418;
+}
+
+.Contact_img{
+    width: 400px;
+    height: 300px;
+    border-radius: 30px;
+    /* padding-right: 50px; */
+}
+
+.contact_text{
+    margin-top: -300px;
+    color: #4e3418;
+    /* margin: 40px 50px; */
+    text-align: center;
+    font-size: larger;
+    
+}
+
+/* <!-- <footer part> --> */
+
+.footer_section {
+    width: 100%;
+    display: inline-block;
+    
+    background-image:
+    linear-gradient( rgba(96, 64, 32,0.9), rgba(45, 29, 13, 0.5), rgba(104, 67, 35, 0.2));
+    height: 50px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.footer-distributed {
+    background-color: 4e3418;
+    background-image:
+    linear-gradient( rgba(96, 64, 32,0.9), rgba(95, 67, 39, 0.5), rgba(104, 67, 35, 0.2));
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    width: 100%;
+    text-align: left;
+    font: bold 16px sans-serif;
+    padding: 55px 50px;
+}
+
+.footer-distributed .footer-left,
+.footer-distributed .footer-center,
+.footer-distributed .footer-right {
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* Footer left */
+
+.footer-distributed .footer-left {
+    width: 40%;
+}
+
+/* The company logo */
+
+.footer-distributed h3 {
+    color: #4e3418;
+    font: normal 36px 'Open Sans', cursive;
+    margin: 0;
+}
+
+.footer-distributed h3 span {
+    color: lightseagreen;
+}
+
+/* Footer links */
+
+.footer-distributed .footer-links {
+    color: #4e3418;
+    margin: 20px 0 12px;
+    padding: 0;
+}
+.footer-distributed .footer-links a:hover{
+    background-color: #ebd1b7;
+}
+
+.footer-distributed .footer-links a {
+    display: inline-block;
+    line-height: 1.8;
+    font-weight: 400;
+    text-decoration: none;
+    color: inherit;
+}
+
+.footer-distributed .footer-company-name {
+    color: #222;
+    font-size: 14px;
+    font-weight: normal;
+    margin: 0;
+}
+
+/* Footer Center */
+
+.footer-distributed .footer-center {
+    width: 35%;
+}
+.footer-distributed .footer-center a:hover{
+    background-color: #ebd1b7;
+}
+
+.footer-distributed .footer-center i {
+    background-color: black;
+    color:#4e3418;
+    font-size: 25px;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 42px;
+    margin: 10px 15px;
+    vertical-align: middle;
+}
+
+.footer-distributed .footer-center i.fa-envelope {
+    font-size: 17px;
+    line-height: 38px;
+}
+
+.footer-distributed .footer-center p {
+    display: inline-block;
+    color: #4e3418;
+    font-weight: 400;
+    vertical-align: middle;
+    margin: 0;
+}
+
+.footer-distributed .footer-center p span {
+    display: block;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 2;
+}
+
+.footer-distributed .footer-center p a {
+    color: lightseagreen;
+    text-decoration: none;
+    ;
+}
+
+.footer-distributed .footer-links a:before {
+    content: "|";
+    font-weight: 300;
+    font-size: 20px;
+    left: 0;
+    color: #4e3418;
+    display: inline-block;
+    padding-right: 5px;
+}
+
+.footer-distributed .footer-links .link-1:before {
+    content: none;
+}
+
+/* Footer Right */
+
+.footer-distributed .footer-right {
+    width: 20%;
+}
+.footer-distributed .footer-right  a:hover{
+    background-color: #ebd1b7;
+}
+
+.footer-distributed .footer-company-about {
+    line-height: 20px;
+    color: #4e3418;
+    font-size: large;
+    font-size: 13px;
+    font-weight: normal;
+    margin: 0;
+}
+
+.footer-distributed .footer-company-about span {
+    display: block;
+    color: #4e3418;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.footer-distributed .footer-icons {
+    margin-top: 25px;
+
+}
+
+.footer-distributed .footer-icons a {
+    display: inline-block;
+    width: 55px;
+    height: 55px;
+    cursor: pointer;
+    /* background-color:  #33383b; */
+    border-radius: 2px;
+
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    line-height: 35px;
+
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
